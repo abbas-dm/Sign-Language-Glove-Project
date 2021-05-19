@@ -15,5 +15,3 @@
     
 # About Python wizard
   Python Wizard is a tool used to generate our own vocabulary. It generates hex code for a given .wav input file, using this tool we can generate hex codes that are compatible     with arduino.
-
-Group of three done this project
